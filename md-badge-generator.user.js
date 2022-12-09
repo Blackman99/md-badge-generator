@@ -27,6 +27,7 @@
   left: 1rem;
   width: 280px;
   z-index: 99999;
+  box-shadow: inset 0 -1px 0 var(--color-border-muted);
 }
 #badge-form .badge-form-item {
   margin-bottom: 1rem;
