@@ -11,7 +11,7 @@
 (function () {
   'use strict';
   // Your code here...
-  const routeMather = /https:\/\/github\.com\/\S+\/(pull\/[0-9]+)|(edit\/\S+\.md)|(issues\/\S+)/
+  const routeMather = /https:\/\/github\.com\/\S+\/(pull\/[0-9]+)|(edit\/\S+\.md)|(issues\/\S+)|(compare\/\S+)/
 
   function addBadgeForm() {
     if(document.querySelector('#badge-form')) {
