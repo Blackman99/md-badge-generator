@@ -22,7 +22,7 @@
 #badge-form {
   position: fixed;
   padding: 12px;
-  background-color: rgba(0, 0, 0, .6);
+  background-color: var(--color-canvas-default);
   top: 30vh;
   left: 1rem;
   width: 280px;
