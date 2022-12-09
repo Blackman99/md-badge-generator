@@ -13,6 +13,7 @@ A user script to add markdown badges generator form to your github page by using
   * `https://github.com/foo/bar` :negative_squared_cross_mark:
   * `https://github.com/foo/bar/edit/main/some-script.js` :negative_squared_cross_mark:
   * `https://github.com/foo/bar/edit/main/some-doc.md` :white_check_mark:
+  * `https://github.com/foo/bar/edit/branch-name/nested/some-doc.md` :white_check_mark:
   * `https://github.com/foo/bar/pull/123` :white_check_mark:
   * `https://github.com/foo/bar/issues/new` :white_check_mark:
 * Supports both refresh and github link spa route jump
