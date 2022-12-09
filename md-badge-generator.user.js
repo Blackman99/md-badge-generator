@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Badge Markdown Generator
-// @namespace    https://github.com/Blackman99/md-badge-generator
+// @namespace    https://github.com/Blackman99/md-badge-generator/raw/main/md-badge-generator.user.js
 // @version      0.0.1
 // @description  try to take over the world!
 // @author       Dongsheng Zhao
