@@ -37,6 +37,7 @@
 #badge-form .badge-form-item:last-child {
   display: flex;
   justify-content: flex-end;
+  margin-bottom: 0;
 }
 #badge-form label {
   display: block;
