@@ -17,7 +17,7 @@ A user script to add markdown badges generator form to your github page by using
   * `https://github.com/foo/bar/pull/123` :white_check_mark:
   * `https://github.com/foo/bar/issues/new` :white_check_mark:
 * Supports both refresh and github link spa route jump  
-The badge form will auto diplay/hide when the page changed.  
+The badge form will auto display/hide when the page changed.  
 There's no need to refresh the browser. 
 * Supports fold and expand
 
