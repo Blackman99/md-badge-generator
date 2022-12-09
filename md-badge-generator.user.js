@@ -24,6 +24,7 @@
   top: 30vh;
   left: 1rem;
   width: 280px;
+  z-index: 99999;
 }
 #badge-form .badge-form-item {
   margin-bottom: 1rem;
