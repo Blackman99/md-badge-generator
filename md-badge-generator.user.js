@@ -22,13 +22,14 @@
 #badge-form {
   position: fixed;
   padding: 12px;
-  background-color: var(--color-canvas-default);
   top: 30vh;
   left: 1rem;
   width: 280px;
   z-index: 99999;
+  border: 1px solid var(--color-border-muted);
   box-shadow: 1px 1px 4px var(--color-border-muted);
   border-radius: 4px;
+  backdrop-filter: saturate(50%) blur(4px);
 }
 #badge-form .badge-form-item {
   margin-bottom: 1rem;
