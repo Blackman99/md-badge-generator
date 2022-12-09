@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  A user script to add markdown badges generator form to your github page by using [Shields](https://shields.io/)
 // @author       Dongsheng Zhao
-// @match        https://github.com/**/*
+// @match        https://github.com/*/*/pull/*,https://github.com/*/*/issue/*,https://github.com/*/*/edit/**/*.md
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
 // ==/UserScript==
