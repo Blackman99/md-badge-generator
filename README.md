@@ -19,9 +19,10 @@ A user script to add markdown badges generator form to your github page by using
 * Supports both refresh and github link spa route jump  
 The badge form will auto diplay/hide when the page changed.  
 There's no need to refresh the browser. 
+* Supports fold and expand
 
 ## Usage Demo
-![badge](https://user-images.githubusercontent.com/41723543/206615303-6c6cb66e-1bf7-4de6-b815-c8ba2e51c8fb.gif)
+![badge](https://user-images.githubusercontent.com/41723543/206688190-b9cea180-fd47-4628-929e-673fe64657a9.gif)
 
 ## LICENSE
 
